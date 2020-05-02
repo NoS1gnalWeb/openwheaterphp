@@ -1,6 +1,6 @@
 <?php 
     // Url de l'API
-    $url = "http://api.openweathermap.org/data/2.5/weather?q=Marseille&lang=fr&units=metric&appid=TOKEN";
+    $url = "http://api.openweathermap.org/data/2.5/weather?q=VILLE&lang=fr&units=metric&appid=TOKEN";
 
     // On get les resultat
     $raw = file_get_contents($url);
