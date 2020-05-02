@@ -2,41 +2,17 @@ body
 {
     background: currentColor;
 }
-
 .container h1 
 {
     color:white;
     font-weight: lighter;
     text-transform: uppercase;
 }
-
-
 .meteo_desc h2 
 {
     color:white;
     font-weight: lighter;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /* Icones */
 .icon {
     position: relative;
