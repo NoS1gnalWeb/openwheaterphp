@@ -1,13 +1,15 @@
-# openwheaterphp
+# Open Weahter php 
 
-Code source de la vidéo pour créer un système de météo en PHP via l'API OpenWheater.
+You can get all my source code here about my video on YouTube ! 
 
-Liens : 
+# Get my project
+```
+git clone https://github.com/openweatherphp
 
-OpenWeather : https://openweathermap.org/
+```
 
-Lien du CodePen : https://codepen.io/joshbader/pen/EjXgqr
+# Follow me everywhere and support me 
 
-=========================================================
-Mon Discord : https://discord.gg/TAR9CgR
-Code pen NoS1gnal : https://codepen.io/No_S1gnal/
+Discord : https://discord.gg/TAR9CgR <br />
+CodePen : https://codepen.io/No_S1gnal/ <br />
+YouTube : https://www.youtube.com/channel/UCJ017E0SkWKG8k407pwm6PA
